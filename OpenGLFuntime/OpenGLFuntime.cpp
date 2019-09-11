@@ -3,7 +3,7 @@
 #include <glad.h>
 #include <glfw3.h>
 #include <iostream>
-#include <khrplatform.h>//add to repo
+#include <khrplatform.h>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void ProcessInput(GLFWwindow* window);
